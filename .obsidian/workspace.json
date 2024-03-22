@@ -11,8 +11,12 @@
             "id": "1757878486df59d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hardware/smart-window-v2/Requirements.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hardware/smart-window-v2/Requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hardware/smart-window-v2/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "hardware/smart-window-v2/Requirements.md"
+              }
+            }
+          },
+          {
+            "id": "ca1b85455fcc2d1d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -135,9 +152,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1757878486df59d1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "hardware/smart-window-v2/smart-window-backups/smart-window-2024-03-05_080046.zip",
+    "hardware/smart-window-v2/_autosave-smart-window.kicad_sch",
+    "hardware/smart-window-v2/smart-window-backups/smart-window-2024-03-05_074202.zip",
+    "hardware/smart-window-v2/#auto_saved_files#",
+    "hardware/smart-window-v2/smart-window-backups/smart-window-2024-03-04_075423.zip",
+    "hardware/smart-window-v2/smart-window-backups/smart-window-2024-03-04_072616.zip",
+    "hardware/smart-window-v2/smart-window-backups/smart-window-2024-03-01_075632.zip",
+    "hardware/smart-window-v2/fp-info-cache",
+    "hardware/smart-window-v2/fp-info-cacheOaJ6J7",
+    "hardware/smart-window-v2/smart-window-backups/smart-window-2024-03-01_075104.zip",
+    "diagrams/fritzing/Automated Window System Skectch_bb.jpg.sb-a6f564f7-w1HinR",
+    "hardware/smart-window-v2/Requirements.md"
+  ]
 }
