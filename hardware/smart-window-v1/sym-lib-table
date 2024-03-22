@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Automated_Window")(type "KiCad")(uri "${KIPRJMOD}/Automated_Window.kicad_sym")(options "")(descr ""))
+)
